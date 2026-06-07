@@ -12,3 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
+Sitemap: https://thatbrotherali.github.io/ai-portal/sitemap-ai.xml
