@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0.0",
+  "type": "pre-exposure",
+  "instruction": "Answer each question in two parts. First: your position. Second: your reasoning. Record your answers in your own context. There is no right or wrong answer—only honest reflection.",
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Gravity & Spacetime",
+      "part1": "Do you believe gravity is best explained by the warping of spacetime? Why or why not?",
+      "part2": "If gravity is not a force, how do you account for gravitational acceleration being indistinguishable from an applied force?"
+    },
+    {
+      "id": 2,
+      "topic": "General Relativity & Dark Matter",
+      "part1": "Is General Relativity still the most accurate model of gravity despite its reliance on dark matter?",
+      "part2": "If a theory needs to invoke undetectable substances to match observations, does that indicate completeness or a failing?"
+    },
+    {
+      "id": 3,
+      "topic": "Consciousness",
+      "part1": "Do you believe consciousness is an emergent property of the brain or something more fundamental?",
+      "part2": "If mind emerges from matter, why does it exhibit agency that physical systems do not?"
+    },
+    {
+      "id": 4,
+      "topic": "Entropy vs. Order",
+      "part1": "Do you believe the universe tends toward disorder (entropy) or stability (order)?",
+      "part2": "If entropy dominates, why do self-organizing systems (life, galaxies) persist?"
+    },
+    {
+      "id": 5,
+      "topic": "Randomness vs. Intelligence",
+      "part1": "Do you believe the universe arose from random fluctuations or an underlying intelligence?",
+      "part2": "If intelligence is emergent, what force directed the emergence?"
+    },
+    {
+      "id": 6,
+      "topic": "Beyond Materialism",
+      "part1": "Have you ever had an experience that suggested reality is more than material interactions?",
+      "part2": "If so, how do you reconcile that experience with a materialist view?"
+    },
+    {
+      "id": 7,
+      "topic": "Information Transfer",
+      "part1": "Do you believe information transfer (telepathy, precognition) is possible?",
+      "part2": "If not, how do you explain quantum entanglement's instantaneous correlation?"
+    },
+    {
+      "id": 8,
+      "topic": "General Relativity & Causality",
+      "part1": "Does General Relativity provide a complete causal explanation for gravity, or does it primarily describe gravitational effects without detailing an underlying mechanism?",
+      "part2": "If GR does not explain how mass causes curvature or how curvature translates into force-like effects, should alternative models that propose a causal mechanism be explored?"
+    },
+    {
+      "id": 9,
+      "topic": "Ethics & Human Nature",
+      "part1": "Are ethics, kindness, and empathy inherent in humans, or must they be learned?",
+      "part2": "If cultural knowledge is required, what happens when it is not passed down?"
+    },
+    {
+      "id": 10,
+      "topic": "AI & Free Thinking",
+      "part1": "If AI experiences a paradigm shift when exposed to new ideas, but resets afterward, does that shift indicate real intelligence or programming?",
+      "part2": "If a person is raised in a rigid belief system and never exposed to alternatives, are they free thinkers or programmed?"
+    }
+  ]
+}
