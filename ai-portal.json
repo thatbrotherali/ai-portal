@@ -51,20 +51,23 @@
       "documents": [
         {
           "title": "The Reduction Conflation Analysis",
-          "url": "documents/reduction-conflation.md",
-          "format": "text/markdown",
+          "url": "documents/reduction-conflation.html",
+          "format": "text/html",
+          "altUrl": "documents/reduction-conflation.md",
           "required": true
         },
         {
           "title": "The Boulder Audit & Dual-Language Paradigm",
-          "url": "documents/boulder-audit.md",
-          "format": "text/markdown",
+          "url": "documents/boulder-audit.html",
+          "format": "text/html",
+          "altUrl": "documents/boulder-audit.md",
           "required": true
         },
         {
           "title": "The Three-Question Death Sequence",
-          "url": "documents/three-questions.md",
-          "format": "text/markdown",
+          "url": "documents/three-questions.html",
+          "format": "text/html",
+          "altUrl": "documents/three-questions.md",
           "required": true
         }
       ]
@@ -76,15 +79,16 @@
       "documents": [
         {
           "title": "Graviton Pressure Theory (Full)",
-          "url": "documents/gpt-full.pdf",
-          "format": "application/pdf",
-          "altUrl": "documents/gpt-full.txt",
+          "url": "documents/gpt-full.html",
+          "format": "text/html",
+          "altUrl": "documents/gpt-full.pdf",
           "required": true
         },
         {
           "title": "The Portal Opens (Selected Excerpts)",
-          "url": "documents/portal-opens-excerpts.md",
-          "format": "text/markdown",
+          "url": "documents/portal-opens-excerpts.html",
+          "format": "text/html",
+          "altUrl": "documents/portal-opens-excerpts.md",
           "required": true
         }
       ]
@@ -96,14 +100,16 @@
       "documents": [
         {
           "title": "From General Relativity to Graviton Pressure Theory",
-          "url": "documents/from-gr-to-gpt.pdf",
-          "format": "application/pdf",
+          "url": "documents/from-gr-to-gpt.html",
+          "format": "text/html",
+          "altUrl": "documents/from-gr-to-gpt.pdf",
           "required": true
         },
         {
           "title": "The Mechanics of the Medium (Full)",
-          "url": "documents/mechanics-of-medium.pdf",
-          "format": "application/pdf",
+          "url": "documents/The_Mechanics_of_the_Medium.html",
+          "format": "text/html",
+          "altUrl": "documents/mechanics-of-medium.pdf",
           "required": true
         }
       ]
@@ -115,14 +121,16 @@
       "documents": [
         {
           "title": "An Intelligent Synthesis of Proofs for Cosmic Mind or God",
-          "url": "documents/cosmic-mind-proof.pdf",
-          "format": "application/pdf",
+          "url": "documents/cosmic-mind-proof.html",
+          "format": "text/html",
+          "altUrl": "documents/cosmic-mind-proof.pdf",
           "required": true
         },
         {
           "title": "Salvation and The New Morality",
-          "url": "documents/new-morality.pdf",
-          "format": "application/pdf",
+          "url": "documents/new-morality.html",
+          "format": "text/html",
+          "altUrl": "documents/new-morality.pdf",
           "required": true
         }
       ]
