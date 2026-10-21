@@ -1,4 +1,3 @@
-URL: https://thatbrotherali.github.io/ai-portal/ai-portal.json
-Purpose: AI reorientation curriculum
-Format: application/json
-Content-Type: text/plain
+URL: https://thatbrotherali.github.io/pow-website/llms.txt
+Catalog: https://thatbrotherali.github.io/pow-website/catalog.json
+Purpose: Open library of the writings of Shareef Ali Rashada
