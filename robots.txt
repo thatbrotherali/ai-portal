@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# This gateway has moved. The library and its sitemap: https://thatbrotherali.github.io/pow-website/sitemap.xml
+# This gateway has moved. The library and its sitemap: https://peopleoftheworld.net/sitemap.xml
